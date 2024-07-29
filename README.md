@@ -2,3 +2,7 @@
 ```bin/bash
 git init
 ```
+###git command to check status of project
+```bin/bash
+git status
+```
